@@ -1,0 +1,10 @@
+{
+    "name": "Mon extension",
+    "version": "0.1",
+    "manifest_version": 2,
+    "applications": {
+        "gecko": {
+            "id": "extension@bat.fr"
+        }
+    }
+}
