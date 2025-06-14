@@ -1,0 +1,5 @@
+
+-- FirstExtension
+https://developer.mozilla.org/fr/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension
+-- ToPack
+https://extensionworkshop.com/documentation/publish/package-your-extension/
